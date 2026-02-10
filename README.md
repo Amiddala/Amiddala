@@ -1,13 +1,17 @@
-<h2 align="left">Hi , I'm Candy Ordoñez</h2>
+<h1 align="center"><b>Hi , I'm Candy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-###
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<h2 align="left">Hi! My name is Candy</h2>
-
-###
-
-<img align="right" height="191" src="https://camo.githubusercontent.com/2fbf5911f004b027e1848f31a152ad53d2ed06e1fbfc4d10b6700dc5cc935924/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966"  />
-
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - Angular
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- Outside tech,🎮 I love playing videogames, 🎵 listening to music, and 📖 reading science books.
+- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">candyordonez240@gmail.com</a>
 ###
 
 <div align="left">
