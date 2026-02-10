@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Candy! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=FFABE3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Engineering+Student;Competitive+Programming+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <!--  -->
 
@@ -60,6 +60,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </a>
 
 
+
 <a href="https://www.twitch.tv/cmilaodz" >
    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 </a>
@@ -77,6 +78,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 
+<a href="https://codeforces.com/profile/amidala" >
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" alt="codeforces logo"  />
+</a>
 
 
 ###
